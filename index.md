@@ -1,4 +1,4 @@
-# Family secret recipes
+# Shekhar Family secret recipes
 
 Set of recipes stolen from my grandma
 
